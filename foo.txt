@@ -1,3 +1,4 @@
 <<<<<<< HEAD
-Saturday Sunday
+Friday Saturday Sunday
+Mitchell Wood
 >>>>>>> fixed foo in fix1
