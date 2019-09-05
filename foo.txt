@@ -1,4 +1,7 @@
-<<<<<<< HEAD
-Saturday Sunday
->>>>>>> fixed foo in fix1
+
+Friday Saturday Sunday
+Mitchell Wood
+Fun about to begin
+Groundhog Day
+Change from someone else
 change from local clone
